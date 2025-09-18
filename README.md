@@ -4,7 +4,7 @@
 
 <h2 align="center">👨‍💻</h2>
 <p align="center">
-   Hello! I'm a passionate software developer with 2 years of experience in a variety of modern technologies. I love building efficient and elegant solutions. Here you'll find some examples of my work and the technologies I enjoy working with.
+   Hello! I'm a passionate software developer with 3 years of experience in a variety of modern technologies. I love building efficient and elegant solutions. Here you'll find some examples of my work and the technologies I enjoy working with.
 </p>
 
 <h2 align="center">📫 Reach me on</h2>
